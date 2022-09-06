@@ -7,6 +7,6 @@
 * [x] Opprett en feilende test - high card
 * [x] Få testen til å passere
 * [x] Continuous integration - bygge med Github Actions
-* [ ] featurebranch feature/score-pair
-* [ ] pull request
-* [ ] Code review
+* [x] featurebranch feature/score-pair
+* [x] pull request
+* [x] Code review
